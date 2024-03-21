@@ -1,10 +1,8 @@
 # Thông báo
 
-# Trang web đang được bảo trì.
+## Trang web đang được bảo trì.
 
-# Liên Hệ
-## Chung cư Golden Star (Villa số 4)
-## 58B Nguyễn Thị Thập, Phường Bình Thuận, Quận 7, TP. HCM
+## Thông tin liên Hệ
 
 ### Emai: nhakhoaminhhai@gmail.com
 ### Phone: 090-923-1477
