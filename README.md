@@ -1,8 +1,6 @@
-# Thông báo
+# Thông báo : Trang web đang được bảo trì.
 
-## Trang web đang được bảo trì.
-
-## Thông tin liên Hệ
+## Thông tin liên hệ:
 
 ### Emai: nhakhoaminhhai@gmail.com
 ### Phone: 090-923-1477
