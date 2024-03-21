@@ -1,6 +1,6 @@
 # Thông báo
 
-Trang web đang được bảo trì. <hr>
+# Trang web đang được bảo trì.
 
 # Liên Hệ
 ## Chung cư Golden Star (Villa số 4)
